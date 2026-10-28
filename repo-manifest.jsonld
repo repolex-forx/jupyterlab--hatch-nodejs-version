@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterlab/hatch-nodejs-version/commit/81c4612da14dec4b260bc956225fa24ab62b377e",
       "git:hexsha": "81c4612da14dec4b260bc956225fa24ab62b377e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.4.0"
     },
     {
