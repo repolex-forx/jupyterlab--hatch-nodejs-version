@@ -1,0 +1,11 @@
+{
+  "org": "jupyterlab",
+  "repo": "hatch-nodejs-version",
+  "versions": [
+    {
+      "commit": "81c4612da14dec4b260bc956225fa24ab62b377e",
+      "tag": "v0.4.0",
+      "parsed_at": "2026-10-28T14:47:20.403024+00:00"
+    }
+  ]
+}
