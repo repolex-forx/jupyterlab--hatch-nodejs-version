@@ -1,0 +1,45 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyterlab",
+  "repo": "hatch-nodejs-version",
+  "versions": [
+    {
+      "commit": "81c4612da14dec4b260bc956225fa24ab62b377e",
+      "parsed_at": "2026-10-28T14:45:05.159487+00:00",
+      "tag": "v0.4.0",
+      "filetree": "filetree/81c4612da14dec4b260bc956225fa24ab62b377e.nq.gz",
+      "blobs": [
+        "blob/67ecd988641591ea0ab8cda684d8ff78e9157810.nq.gz",
+        "blob/eadc2027bd707ff46c24fa4a8b1e85e0f2365009.nq.gz",
+        "blob/c1881060de286b6e65824cf42d336f09ad37ce7e.nq.gz",
+        "blob/bc9abad97803bc5e52460c9c59970df73940dd87.nq.gz",
+        "blob/60af4c5f16741c7c2fe17cdd9718ae5f6d56d8a4.nq.gz",
+        "blob/0e46fb4ae03e7356a56cbb65f697f62dd32c4639.nq.gz",
+        "blob/8393a44e6ff26a8fea118567e6e7afe223f232a5.nq.gz",
+        "blob/872f16de518bf6c0261651db30df18a6c724415e.nq.gz",
+        "blob/a61c02f77cd98402db0e1d80434fe59cdc4a64bb.nq.gz",
+        "blob/d716c8cb3b427d9f454e5116d441bc49f84feda2.nq.gz",
+        "blob/94fd8d84d89cf9eabdf67f5e757b6977e7aa5da4.nq.gz",
+        "blob/12b2dc712cc5417f6c50db2336ab8e0ffbe6d9d6.nq.gz",
+        "blob/8dd399ab55bce8a4a1ddfd0c98170f771f6e5c35.nq.gz",
+        "blob/8cae8f630abf12cbf622f575d889521bf9ddb772.nq.gz",
+        "blob/e0c6b7b6d609419bb8c411638047dd1964a87216.nq.gz",
+        "blob/725feab5ce652dc39f3f2c77b9fd3c90bf049c65.nq.gz",
+        "blob/f470312dc1d20e59c708dead24ed07f144d5352b.nq.gz",
+        "blob/9cacb78e84734ba231a466f3e118a7c02f06853a.nq.gz",
+        "blob/b8ee1fcf09230ddcc633c9e61597bc87ce4e2921.nq.gz",
+        "blob/ed9e5f7afdf67e830ea8663d5ff48d8191519bcc.nq.gz",
+        "blob/a42858a250ba80c404ffa417c8d2499ebe542215.nq.gz",
+        "blob/97fd431e6bcabde7fed2a86baa1d3bcf92f9bc51.nq.gz",
+        "blob/78cce1c803b9eaa37eed49cfe6c4032e18561409.nq.gz",
+        "blob/c61455cae075b956a4c079d94429d5a8c6c06b5e.nq.gz",
+        "blob/e0e097c5cf0c75f0bc57290eef7d911073b291e6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
