@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/jupyterlab/hatch-nodejs-version/commit/81c4612da14dec4b260bc956225fa24ab62b377e",
       "git:hexsha": "81c4612da14dec4b260bc956225fa24ab62b377e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.4.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.4.0",
+      "repolex:parsedAt": "2026-10-28T14:47:20.402525+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyterlab/hatch-nodejs-version/commit/42ab988c2301542219b9ee3347f0008a41a81ffd",
